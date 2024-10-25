@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="panjang">Masukkan panjang balok</string>
+    <string name="lebar">Masukkan lebar balok</string>
+    <string name="tinggi">Masukkan tinggi balok</string>
+    <string name="hasil">Hasil</string>
+    <string name="gita">Luas dan Volume Balok by Gita Febiola</string>
+    <string name="hitung_luas_balok">Hitung Luas Balok</string>
+    <string name="hitung_volume_balok">Hitung Volume Balok</string>
+</resources>
